@@ -1,0 +1,16 @@
+streamlit
+nltk
+transformers
+sentence-transformers
+beautifulsoup
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-auth
+google-generativeai
+textblob
+dateparser
+requests
+imaplib
+smtplib
+email
